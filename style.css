@@ -1,8 +1,10 @@
 body {
+   margin: 0; /* Remove default margin */
+    padding: 0;
     height: 100vh;
-    margin: 0; /* Remove default margin */
     overflow: hidden; /* Optional: Hide horizontal scrollbar */
   }
+
   
 
 /* change the fonts */
@@ -18,7 +20,7 @@ p {
     color: white;
 }
 
-/* change background color*/
+/* change background color */
 
 body {
     background-color: black;
